@@ -1,4 +1,4 @@
 import './style.css'
-import PI from './src/module';
+import PI from './module';
 
 console.log(PI);
